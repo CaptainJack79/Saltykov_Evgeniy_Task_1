@@ -12,4 +12,4 @@ elif perct in b:
 elif perct in c:
     print(perct, 'Процентов')
 elif perct in d:
-    print(perct, 'Процентов')
+     print(perct, 'Процентов')
